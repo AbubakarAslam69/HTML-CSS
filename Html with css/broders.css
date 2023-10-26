@@ -1,0 +1,14 @@
+h1{
+    /* border-style: solid;
+    border-width: 3px;
+    border-color: lightpink; */
+    border: 3px solid lightpink;
+    border-radius: 15px;
+}
+p{
+    border-top: 3px solid red;
+    border-bottom: 3px solid green;
+    border-left: 3px dotted blue;
+    border-right: 3px dotted yellow;
+    border-radius: 10px;
+}

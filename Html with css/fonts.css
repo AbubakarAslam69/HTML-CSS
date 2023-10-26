@@ -1,0 +1,17 @@
+@font-face {
+    font-family: ;
+    src: url();
+}
+@font-face {
+    font-family: ;
+    src: url();
+}
+h1{
+    font-family: sans-serif, arial;
+}
+p{
+    font-family: sans-serif, verdana;
+    font-size: 1.5em;
+    font-weight: bold;
+    font-style: italic;
+}

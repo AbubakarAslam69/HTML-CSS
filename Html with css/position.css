@@ -1,0 +1,22 @@
+#box1{
+    width: 200px;
+    height: 200px;
+    background-color: aqua;
+    position: sticky;
+    top: 0px;
+    /* top: 100px;
+    left: 100px;   
+    right: 0px;
+    left: 0px;
+    bottom: 0px; */
+    
+}
+#box2{
+    width: 100px;
+    height: 100px;
+    /* position: static; */
+    position: absolute;
+    background-color: red;
+    top: 50px;
+    left: 50px;
+}

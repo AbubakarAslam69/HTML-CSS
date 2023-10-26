@@ -1,0 +1,22 @@
+body{
+    margin: 0px;
+}
+#Box{
+    border: 5px solid;
+    font: 5em;
+    width: 250px;
+    height: 250px;
+    /* margin: 50px; */
+
+}
+.Box1{
+    background-color: red;
+    margin-left: auto;
+
+
+}
+.Box2{
+    background-color: green;
+    margin-right: auto;
+
+}
